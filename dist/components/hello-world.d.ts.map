@@ -1,1 +1,0 @@
-{"version":3,"file":"hello-world.d.ts","sourceRoot":"","sources":["../../src/components/hello-world.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,UAAU,EAAa,MAAM,KAAK,CAAC;AAG5C,qBACa,UAAW,SAAQ,UAAU;IAEtC,OAAgB,MAAM,0BAQtB;IAGA,KAAK,SAAK;IAEV,OAAO,CAAC,QAAQ;IAKP,MAAM;CASlB;AAED,OAAO,CAAC,MAAM,CAAC;IACX,UAAU,qBAAqB;QAC7B,aAAa,EAAE,UAAU,CAAC;KAC3B;CACF"}
